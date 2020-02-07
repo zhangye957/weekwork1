@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yinhang:war">
+    <output-path>$PROJECT_DIR$/yinhang/target</output-path>
+    <root id="archive" name="mavendemo.war">
+      <element id="artifact" artifact-name="yinhang:war exploded" />
+    </root>
+  </artifact>
+</component>
